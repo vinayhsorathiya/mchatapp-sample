@@ -1,0 +1,14 @@
+{
+  "name": "mchatapp",
+  "version": "1.0.0",
+  "description": "Its chat bot for miss amplify",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vinayh.sorathiya",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
